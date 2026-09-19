@@ -2,7 +2,7 @@
 
 > A clean, responsive, frontend-only task management application designed to help users organize, prioritize, and track their daily tasks efficiently.
 
-🔗 **Live Demo:** https://glittering-eclair-7e2389.netlify.app/
+🔗 **Live Demo:** https://focuslis.netlify.app/
 
 🔗 **GitHub Repository:** https://github.com/Mahima0324/Focuslist
 
